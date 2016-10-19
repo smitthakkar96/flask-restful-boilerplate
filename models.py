@@ -11,3 +11,10 @@ class User(db.Model):
 
     def __repr__(self):
         return '<User %r>' % self.username
+
+
+
+
+if __name__ == '__main__':
+    db.create_all()
+    db.session.commit()
