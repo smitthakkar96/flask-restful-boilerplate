@@ -11,4 +11,8 @@ Use this template to quick start rest api development with flask.
     - Mac and Ubuntu : . venv/bin/activate
   - Install dependencies : pip install -r requirements.txt
 
+
+Once you install or deploy app you can test it by calling the GET, POST, PUT, and DELETE method of /api/hello with postman.
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
