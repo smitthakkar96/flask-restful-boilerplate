@@ -1,4 +1,4 @@
-# makerparty_flask
+# flask-restful-boilerplate
 Boilerplate template for a Python Flask_Restful applications with Flask-SQLAlchemy and SQLite example.
 
 ## prerequisites
