@@ -1,0 +1,7 @@
+{
+  "name": "Flask Rest api",
+  "description": "A Flask Restful app",
+  "repository": "https://github.com/smitthakkar96/flask-restful-boilerplate",
+  "logo": "http://www.unixstickers.com/image/cache/data/stickers/flask/Flask-logo.sh-600x600.png",
+  "keywords": ["Flask", "Python", "Rest API"]
+}
